@@ -1,8 +1,7 @@
 # post-man-last-api
 
-![Image alt](https://github.com/post-man-last-api/blob/main/1.png)
+![Image alt](https://imgur.com/a/hn3RrYh)
 
-<img src="https://github.com/post-man-last-api/blob/main/1.png" />
 
 ![Image alt](https://github.com/post-man-last-api/blob/main/2.png)
 
